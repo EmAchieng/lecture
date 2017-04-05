@@ -16,6 +16,7 @@ Business Intelligence & Data Product
 - Lab: Accuracy & Error Rate - [강의영상](https://www.youtube.com/watch?v=K5wwrdYneoc&t=6s&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=4), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/classification_performacne_metrics.ipynb)
 - Lab: Pipeline - [강의영상](https://www.youtube.com/watch?v=AwirvR8BAYE&index=5&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/pipeline_example.ipynb)
 - Precision, Recall, F1 Score - [강의자료](), [강의영상](https://www.youtube.com/watch?v=KKTgdFjYCnU&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=6)
+- Lab: Axis - [강의영상](https://www.youtube.com/watch?v=eLfdz1tMaS4&index=7&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/axis_example.ipynb)
 
 ### 3주차: 앙살블의 이해 및 구현
 
