@@ -40,15 +40,7 @@ Operation Research with Python (Honors Class)
 - Lab: Linear Programming using Gurobi - [강의영상](https://youtu.be/bm7HsHnxFr0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/nBwDT1/D3RiTL)
 - Lecture: Application Example - [강의영상](https://youtu.be/AtxmJRVmtwA?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/3HzbcX/D3RiTL)
 
-### 5주차: Simplex Algorithm
-- Lecture - Standard Form
-  [강의영상](https://youtu.be/eqgLsDfrddY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/k7hWgr/D3RiTL)
-- Lecture - Basic Variable & Non-Basic Variable
-  [강의영상](https://youtu.be/E9aNwcrXz-s?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/w8RUWg/D3RiTL)
-- Lecture - Simplex Algorithm Process
-  [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
-
-### 6주차: LP Applications
+### 5주차: LP Applications
 - Lab: Diet Problem -
   [강의영상](https://youtu.be/mS6uJwTT8Yk?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/wTgcst/D3RiTL)
 - Lab: Work Scheduling Problem -
@@ -61,6 +53,15 @@ Operation Research with Python (Honors Class)
   [강의영상](https://youtu.be/V05wfu5lLG8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/uWE7uy/D3RiTL)
 - Lab: Multiperiod Financial Models -
   [강의영상](https://youtu.be/8z1javfoqh0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/F9JKZr/D3RiTL)
+
+### 6주차: Simplex Algorithm
+- Lecture - Standard Form
+  [강의영상](https://youtu.be/eqgLsDfrddY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/k7hWgr/D3RiTL)
+- Lecture - Basic Variable & Non-Basic Variable
+  [강의영상](https://youtu.be/E9aNwcrXz-s?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/w8RUWg/D3RiTL)
+- Lecture - Simplex Algorithm Process
+  [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
+
 
 ### 7주차: Sensitivity Analysis & Daulity
 
