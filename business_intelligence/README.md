@@ -19,6 +19,7 @@ Business Intelligence & Data Product
 - Lab: Precision, Recall, F1 Score - [강의영상](https://www.youtube.com/watch?v=7098qhBeCI8&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=8), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/imbalanced_dataset.ipynb)
 - Lab: Axis - [강의영상](https://www.youtube.com/watch?v=eLfdz1tMaS4&index=7&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/axis_example.ipynb), [코드](https://github.com/TeamLab/lecture/blob/master/business_intelligence/code/axis_example.ipynb)
 - ROC curve - [강의자료](https://doc.co/PmmjpX/oYsD6r), [강의영상](https://www.youtube.com/watch?v=CORY_2TRFYg&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&index=8)
+- Lab: ROC curve - [강의영상](https://www.youtube.com/watch?v=Zo6YDvqDOP8&index=10&list=PLBHVuYlKEkULVqNZmfVmooMrFV7eanJMS&t=2s), 코드()
 
 ### 3주차: 앙살블의 이해 및 구현
 
