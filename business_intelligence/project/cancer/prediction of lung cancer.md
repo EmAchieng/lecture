@@ -16,4 +16,4 @@
     * 사진 사이즈 변환(1장당 150 * 150 * 20)
 - <b>성능</b><br></br>
     * Cross validation -> 8 : 2 
-    * Accuracy : 60~70% 
+    * Accuracy : 약 69%
