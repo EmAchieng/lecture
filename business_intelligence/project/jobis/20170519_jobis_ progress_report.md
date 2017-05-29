@@ -13,18 +13,19 @@
     플러스 친구 서비스 실행(TEAMLAB)
     Sample 버튼 자동응답 서비스 실시
 
-
-   <br><img src=\"kakaotalk.png\" width=\"800\" height=\"780\"/><br>
-
+   <br></br>
+   <img src="kakaotalk.png" width= "800" height= "780"/></br>
+   <br></br>
 - Classification
 1. 방향성: 데이터부족 해결
   해당하는 Class를 1, 나머지 Class를 0으로 지정 --> Multiclass 문제가 아닌 Binary문제로 변환
 2. 모델
-SVM, GaussianNB, AdaBoost, XGB, NN
+  SVM, GaussianNB, AdaBoost, XGB, NN
 3. 지표
   Baseline은 데이터 숫자가 많은 Class 0의 개수/ 전체데이터 로 설정
 
 - Text 데이터 정리
 1.  데이터 부족 및 accuracy 향상을 위해 데이터 정리 및 추가 생성 필요.
-
-    <img src=\"data_example.png\" width=\"800\" height=\"780\"/>
+    <br></br>
+    <img src="data_example.png" width="800" height="780"/>
+    <br></br>
