@@ -14,7 +14,7 @@
     Sample 버튼 자동응답 서비스 실시
 
    <br></br>
-   <img src="kakaotalk.PNG" width= "800" height= "780"/></br>
+   <img src="kakaotalk.PNG" width= "800" height= "500"/></br>
    <br></br>
 - Classification
 1. 방향성: 데이터부족 해결
@@ -27,5 +27,5 @@
 - Text 데이터 정리
 1.  데이터 부족 및 accuracy 향상을 위해 데이터 정리 및 추가 생성 필요.
     <br></br>
-    <img src="data_example.PNG" width="800" height="780"/>
+    <img src="data_example.PNG" width="800" height="500"/>
     <br></br>
