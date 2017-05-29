@@ -13,7 +13,12 @@
     플러스 친구 서비스 실행(TEAMLAB)
     Sample 버튼 자동응답 서비스 실시
 
+<<<<<<< HEAD
+    <img src=\"kakaotalk.png\" width=\"800\" height=\"780\"/><br>\n"
+
+=======
 		![enter image description here](https://lh3.googleusercontent.com/-KBXANLcB2g4/WSwX87m_OYI/AAAAAAAADRc/rlc6JBAJbFkffvQcrLLekcLbvc99z42VgCLcB/s0/%25EC%25BA%25A1%25EC%25B2%2598.PNG)
+>>>>>>> 47209fa5a03585e033f4d1c37665ab4147382e92
 
 - Classification
 1. 방향성: 데이터부족 해결
@@ -26,4 +31,4 @@ SVM, GaussianNB, AdaBoost, XGB, NN
 - Text 데이터 정리
 1.  데이터 부족 및 accuracy 향상을 위해 데이터 정리 및 추가 생성 필요.
 
-		![예시 화면](https://lh3.googleusercontent.com/-aDJFnqV6c_0/WSwaxJLDvmI/AAAAAAAADRw/EtofeyqTPz0QCtJJPZTU9vyfGAQCovEFwCLcB/s0/%25EC%25BA%25A1%25EC%25B2%25982.PNG "캡처2.PNG")
+    <img src=\"data_example.png\" width=\"800\" height=\"780\"/><br>\n"
