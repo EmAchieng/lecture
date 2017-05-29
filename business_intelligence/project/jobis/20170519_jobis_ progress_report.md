@@ -13,8 +13,7 @@
     플러스 친구 서비스 실행(TEAMLAB)
     Sample 버튼 자동응답 서비스 실시
 
-		![enter image description here](https://lh3.googleusercontent.com/-KBXANLcB2g4/WSwX87m_OYI/AAAAAAAADRc/rlc6JBAJbFkffvQcrLLekcLbvc99z42VgCLcB/s0/%25EC%25BA%25A1%25EC%25B2%2598.PNG "캡처.PNG")
-
+		![enter image description here](https://lh3.googleusercontent.com/-KBXANLcB2g4/WSwX87m_OYI/AAAAAAAADRc/rlc6JBAJbFkffvQcrLLekcLbvc99z42VgCLcB/s0/%25EC%25BA%25A1%25EC%25B2%2598.PNG)
 
 - Classification
 1. 방향성: 데이터부족 해결
