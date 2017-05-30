@@ -20,9 +20,9 @@
 <br><br>    
 ### 13주차 진행 사항(5/30)
 - <b>페이지 개선</b><br>
-    * 메인 페이지
+* 메인 페이지
    <img src="https://github.com/jayoungseo/quiz-image/blob/master/home.png?raw=true" align="middle"></img><br>
-    * 암 발생 여부 알려주는 페이지
+* 암 발생 여부 알려주는 페이지
    <img src="https://github.com/jayoungseo/quiz-image/blob/master/home_y.png?raw=true" align="middle"></img><br>
    <img src="https://github.com/jayoungseo/quiz-image/blob/master/home_n.png?raw=true" align="middle"></img><br><br>
 - <b>성능 향상</b>
