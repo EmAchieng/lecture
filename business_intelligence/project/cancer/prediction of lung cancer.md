@@ -17,3 +17,8 @@
 - <b>성능</b><br></br>
     * Cross validation -> 8 : 2 
     * Accuracy : 약 69%
+<br><br>    
+### 13주차 진행 사항(5/30)
+- <b>페이지 개선</b>
+- <b>성능 향상</b>
+   * Accuracy : 약 69% --> 73%
