@@ -20,7 +20,7 @@
 <br><br>    
 ### 13주차 진행 사항(5/30)
 - <b>페이지 개선</b><br>
-   * 메인 페이지
-   <img src="https://github.com/jayoungseo/quiz-image/blob/master/home.png?raw=true" align="middle"></img>
+   * 메인페이지
+   <img src="https://github.com/jayoungseo/quiz-image/blob/master/home.png?raw=true" align="middle"></img>
 - <b>성능 향상</b>
    * Accuracy : 약 69% --> 73%
