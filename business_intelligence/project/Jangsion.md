@@ -131,7 +131,7 @@
 
 ### 증명사진
 
-![Alt text](/img/jangsion.jpg "Optional title")
+![Alt text](https://github.com/janguck/lecture/blob/master/business_intelligence/project/img/jangsion.png "Optional title")
 
 
 
