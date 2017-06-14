@@ -129,9 +129,9 @@
 |   <h2>f1-score </h2>| <h3>  0.45   </h3>           |  <h3>  0.49   </h3>           | <h3>  0.88   </h3>           | <h3>  0.76   </h3>| 
 |   <h2>support  </h2>| <h3>  776    </h3>           |  <h3>  2229   </h3>           | <h3>  6866    </h3>           | <h3>  9871   </h3>| 
 
+### 증명사진
 
-
-
+![Alt text](https://github.com/janguck/lecture/blob/master/business_intelligence/project/img/jangsion.png "Optional title")
 
 
 
