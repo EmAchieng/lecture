@@ -7,3 +7,8 @@ it
 has
 another
 branch
+
+
+and 
+it
+is merged
